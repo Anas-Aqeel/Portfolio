@@ -49,8 +49,8 @@ const Contact = () => {
               <Link href="https://www.facebook.com/anas.aqeel.12327/">
                 <i className="ri-facebook-line"></i>
               </Link>
-              <Link href="#">
-                <i className="https://www.linkedin.com/in/mohammad-anas-9b180b248/"></i>
+              <Link href="https://www.linkedin.com/in/mohammad-anas-9b180b248/">
+                <i className="ri-linkedin-line"></i>
               </Link>
             </div>
           </Col>

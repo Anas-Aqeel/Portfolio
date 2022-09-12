@@ -5,7 +5,7 @@ const portfolio = [
     img: "/images/portfolio-01.png",
     category: "Blogs",
     keyword: ["Smart contract", "Solidity", "Voting Contract"],
-    liveUrl: "#",
+    liveUrl: "https://coding-hub.vercel.app/post/basic-solidity-voting-smart-contract",
   },
 
   {
@@ -14,7 +14,7 @@ const portfolio = [
     img: "/images/portfolio-02.png",
     category: "Blogs",
     keyword: ["JavaScript", "Datatypes"],
-    liveUrl: "#",
+    liveUrl: "https://coding-hub.vercel.app/post/understanding-the-typeof-null-oddity",
   },
 
   {
@@ -23,7 +23,7 @@ const portfolio = [
     img: "/images/portfolio-03.png",
     category: "Blogs",
     keyword: ["JavaScript", "Array", "Datatypes"],
-    liveUrl: "#",
+    liveUrl: "https://coding-hub.vercel.app/post/what-happens-in-javascript-if-you-try-to-overwrite-an-element-that-does-not-exist",
   },
   {
     id: "07",
